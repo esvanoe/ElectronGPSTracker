@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0"
+       uid="Erik's IOT"
+       type="a-f-G-M-F-U-M"
+       time="2018-01-31T19:18:38.07Z"
+       start="2017-01-31T19:18:38.07Z"
+       stale="2017-01-31T19:20:38.07Z" >
+    <detail>
+    </detail>
+    <point lat="38.716" lon="-104.782" ce="45.3"
+           hae="0" le="99.5"  />
+</event>
