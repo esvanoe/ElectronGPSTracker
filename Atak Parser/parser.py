@@ -9,7 +9,7 @@ hostPort = 8080
 
 # Set the TAK Server IP and Port
 global takServer
-takServer = "54.213.93.44"
+takServer = "123.123.123.123"
 global takPort
 takPort = 8088
 
